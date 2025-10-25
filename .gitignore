@@ -1,0 +1,8 @@
+.idea/
+.github/workflows/
+*.dSYM/
+Testing/Temporary/
+build/
+*.o
+*.log
+.DS_Store
